@@ -5,4 +5,6 @@ change this file from vs code & push in test-branch-01 .
 create branch from vs code && change this file from vs code & push in test-branch-2 . 
 
 issue of logo is solved successfully
+text added from conflict branch
 txt added from conflict brach
+
