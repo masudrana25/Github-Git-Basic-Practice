@@ -3,3 +3,5 @@ this is a text file created from github repository.
 change this file from vs code & push in test-branch-01 . 
 
 create branch from vs code && change this file from vs code & push in test-branch-2 . 
+
+issue of logo is solved successfully
